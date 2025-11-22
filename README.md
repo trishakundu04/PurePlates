@@ -26,7 +26,7 @@ PurePlates is a web-based application designed to help users **identify potentia
 - **Backend:** Flask (Python)  
 - **Deployment:** Render (Live hosting)  
 
----
+```
 ## 📂 Project Structure
 PurePlates/
 │── static/ # CSS, images, static assets
@@ -37,7 +37,8 @@ PurePlates/
 │── requirements.txt # Dependencies
 │── README.md # Documentation
 
----
+
+```
 
 ## ⚡ Installation & Setup (Local)
 
