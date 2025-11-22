@@ -1,0 +1,44 @@
+food_product,main_ingredient,SWEETNER,OIL,SEASONING,allergic_ingredients,associated_allergies ,symptoms
+Almond Cookies,Almonds,Sugar,Butter,Flour,"Almonds, Wheat, Dairy","skin reaction , respiratory issues, gastrointestinal issues","hives , itching,shortness of breath,anaphylaxis"
+Chicken Noodle Soup,Chicken broth,none,Butter,Salt,"Chicken, Wheat, Celery","hives, swelling, and difficulty breathing"," rash, itching,nausea, stomach cramps,wheezing"
+Cheese Pizza,"Wheat Flour, Tomato Sauce,  Cheese, Yeast",None,Olive oil ,"Salt,pepper,chilli flakes","Wheat, Cheese ","Gluten Allergy, Dairy Allergy","Bloating, rash, nausea"
+Chicken Alfredo,"fettuccine pasta, chicken,cream Parmesan cheese",NONE,Butter,"Salt,pepper,chilli flakes","Cream, Parmesan cheese",Dairy,"Vomiting, diarrhea, stomach cramps"
+Shrimp Curry,"Shrimp, Onion, Garlic, Coconut Milk, Spices",NONE,Vegetable oil ,"cumin,paprika,turmeric,salt",Shrimp,Shellfish Allergy,"Itching, swelling, nausea"
+Mushroom Risotto,"mushrooms ,rice,chesse,wine",NONE,Butter,"Onion, garlic,thyme","Arborio rice, Parmesan cheese",Dairy,"skin rashes, itching, respiratory issues"
+Eggplant Parmesan,"Eggplant,Parmasan cheeze,sauce",None,Olive oil ,"onion,garlic,salt ,pepper","Marinara sauce, cheese","skin allergy,diary allergy","skin rashes,itching ,diarrhea"
+Chicken Caesar Wrap,"Chicken,romaine lettuce, cheeze,wheat bread",None,Olive oil ,Ceasar dressing,"caesar dressing , cheeze,gluten","Fish allergy, Diary allergy,Gluten allergy","dizziness, lightheadedness,anaphylaxis"
+Chocolate Mousse,"Wheat Flour, Cocoa, Eggs, Milk, Sugar, Butter",Sugar,Butter ,None,"Eggs, Milk, Wheat","Egg Allergy, Dairy Allergy, Gluten Allergy","Rash, cramps, wheezing"
+Butter Chicken,"Chicken,butter,tomato,cashew nut",Sugar,Butter," Masala,turmeric,garlic, ginger","Tomato sauce, cream","Dairy allergy ,nut allergy","eczema, swollen lips,difficulty swallowing"
+Palak Paneer,"spinach , paneer",none,Ghee,"Paneer, spices","Paneer,cream","Dairy allergy ,nut allergy","Vomiting, diarrhea, stomach pain, nausea."
+Rogan Josh,"Lamb/Mutton,Yogurt,Tomato paste",none,Ghee,"Yogurt, Kashmiri red chili","ghee,cream,nuts",Dairy allergy ,"Hives, itching, rash, eczema"
+Egg Salad,"boiled eggs, mayonnaise",mayonnaise,None,"Celery, onion",Eggs,Egg allergy ,"wheezing, runny nose, sneezing, nausea"
+Rasmalai,"Paneer,milk,lemon juice,nuts",Sugar,Ghee/Butter,"Cardamom, nuts","paneer,milk,nuts","Dairy allergy ,Nut allergy ","Eczema, swollen lips,difficulty swallowing"
+French Onion Soup,"onion,garlic,chicken stock,white wine",None,Butter,"Chicken broth, cheese, bread","Dairy, Wheat","Dairy allergy , Gluten allergy ","Bloating, rash, nausea"
+Baked Salmon,Salmon fillet,None,Olive oil,"Lemon, herbs",Fish,"Fish allergy,","rash,lightheadness"
+Malabar Fish Curry,"Fish,coconut, tamarind",None,Coconut oil,"Tamarind, spices","Fish, Coconut",Fish Allergy ,"Wheezing, coughing, difficulty breathing"
+Tuna Sandwich,"tuna , bread, mayonnaise",mayonnise ,None,"Salt, Pepper","Fish, Eggs","Fish allergy , Egg allergy","rash , vomiting , difficulty swallowing "
+Sushi,"Fish (salmon, tuna)",Rice vinegar,Sesame oil,Soy sauce,"Fish, Soybeans",Fish allergy ,"Abdominal pain, nausea, vomiting, diarrhea."
+Spaghetti Bolognese,Ground Beef,Sugar,Olive oil,Tomato sauce,None,None,None
+Ratatouille,Vegetables,None,Olive oil,"Herbs, garlic",None,None,None
+Pesto Pasta,"Pasta,nuts,garlic,cheeze",None,Olive oil,"Herbs , spices","Nuts, wheat,cheeze","Nut Allergy, Glutten Allergy , Dairy Allergy ","stomach pain,bloating, diarrhea,nausea"
+Vegetable Soup,"Mixed Vegetables,Chicken Stock",None,Vegetable oil ,"Herbs,Spices",None,None,None
+Chicken Enchiladas,"Chicken,cream cheeze,flour tortillas",None,Vegetable oil,Enchilada sauce,"Cheeze , Flour tortillas","airy allergy , Glutten Allergy ","diarrhea, bloating, and stomach cramps"
+Salsa,"Tomatoes, onions, cilantro, and lime juice",None,None,"Cilantro , basil, herbs",None,None,None
+Avocado Toast,"Avocado, bread",None,Olive oil,"Salt, pepper",Bread,Glutten allergy,"Bloating , Nausea , vomiting"
+Beef Tacos,Beef,None,Vegetable oil,Taco seasoning,None,None,None
+Chicken Fajitas,Chicken,None,Vegetable Oil ,Fajita Seasoning,None,None,None
+Chicken Shawarma,"Chicken , bread ",None,Ghee,"Shawarma seasoning,herbs",Bread,Glutten Allergy ,"Bloating , nausea , swollen lips and tongue"
+Biryani,"basmati rice, meat ,vegetables",None,Ghee,"Biryani masala, spices",None,None,None
+Chole Bhature,"chickpeas , bread",None,Vegetable oil ,"Chole masala, spices",Wheat ,Glutten Allergy ,"bloating, diarrhea, and nausea"
+Masala Dosa,"Rice, dal,potato",None,Vegetable oil ,"Potato masala, spices",None,None,None
+Samosa,"Potatoes,all-purpose flour,peas",None,Vegetable oil ,Spices,Flour,Glutten Allergy ,"Bloating,nausea "
+Oatmeal,"Oats,milk",Sugar,None,"Milk,Cinnamon",Milk,Dairy Allergy,"Bloating , Nausea"
+Chicken Satay,Chicken,None,Peanut Oil,"Satay sauce, spices",Peanut,"Nut Allergy, Glutten Allergy , Dairy Allergy ","skin rashes, itching, hives, swelling"
+Shrimp Fried Rice,"Shrimp,rice,vegetables",None,Vegetable oil ,Soy sauce,"Shellfish, Soybeans","Fish Allegy , Nut allergy ","rash, gastrointestinal issues, respiratory problems"
+Soy Milk,Soybeans,Sugar,None,Emulsifiers,Soybeans,"Nut Allergy, Glutten Allergy , Dairy Allergy ","hives, itching, eczema"
+Tofu Stir-Fry,Tofu,None,Vegetable oil,Soy sauce,Soybeans,"Nut Allergy, Glutten Allergy , Dairy Allergy ","rash eczema , vomiting"
+Wheat Bread,Wheat flour,None,None,Salt,Wheat,Glutten Allergy ,"Bloating , Nausea"
+Cinnamon Rolls,Flour,Sugar,Butter,Cinnamon,"Wheat, Dairy","Glutten Allergy, dairy allergy ","bloating, diarrhea, and nausea"
+Aloo Paratha,"Potatoes,flour ",None,Ghee,"Wheat flour, spices",Wheat,Glutten Allergy ,"Bloating , Nausea"
+Rajma Chawal,"Kidney beans , rice",None,Ghee,Spices,None,None,None
+Aloo Gobi,"Potatoes , cauliflower ",None,Oil,"herbs, spices",None,None,None
