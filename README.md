@@ -44,7 +44,7 @@ PurePlates/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pureplates.git
+   git clone https://github.com/trishakundu04/PurePlates.git
    cd pureplates
 2.Create & activate a virtual environment:
   python -m venv venv
